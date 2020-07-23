@@ -1,9 +1,9 @@
-#Exactaworks
+# Exactaworks
 
 O Projeto está sendo feito em Spring Boot como pedido, utilizando MySQL como banco relacional no Docker. Para o funcionamento,
 o Docker tem que estar com o container rodando e um banco no MySQL chamado gastos deve ser criado previamente.
 
-##Testes
+## Testes
 
 Foram realizados teste unitários utilizando MockMVC e JUnit. Foram Testados a listagem e criação das unidades de gastos. No arquivo de testes é possível 
 verificar os testes realizados.
