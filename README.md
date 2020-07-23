@@ -6,9 +6,9 @@ o Docker tem que estar com o container rodando e um banco no MySQL chamado gasto
 ## Testes
 
 Foram realizados teste unitários utilizando MockMVC e JUnit. Foram Testados a listagem e criação das unidades de gastos. No arquivo de testes é possível 
-verificar os testes realizados.
+verificar os testes realizados. Foi utilizado o Postman para teste dos métodos em conjunto com as ferramentas.
 
-##Execução somente da API
+## Execução somente da API
 
 Para a execução da API basta estar no diretório e executar o comando "mvnw.cmd spring-boot:run" ou ".\mvnw spring-boot:run" ou "mvn spring-boot:run". Irá baixar os requisitos maven
 e executar a API.
